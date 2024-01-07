@@ -1,9 +1,14 @@
-
-
-#display {
+#display{
+   display:flex;
    font-size: 48px;
    color: #007bff;
    margin-bottom: 20px;
+   background-color: #ffffff;   
+   justify-content: center;
+   align-items: center;
+   margin-left: 580px;
+   margin-right: 580px;
+   border: 1px solid #007bff;
 }
 
 button {
